@@ -42,7 +42,7 @@ Accessibility is the right thing to do. Providing accessible sites is part of th
 Building accessible sites benefits everyone:
 
 - Semantic HTML, which improves accessibility, also improves SEO, making your site more findable.
-- Caring about accessibility demonstrates good ethics and morals, which improves your public image.
+- Caring about accessibility demonstrates, kindness, good ethics and morals.
 - Other good practices that improve accessibility also make your site more usable by other groups, such as mobile phone users or those on low network speed. In fact, everyone can benefit from many such improvements.
 - Did we mention it is also the law in some places?
 
